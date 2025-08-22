@@ -1,5 +1,5 @@
 ---
-permalink: /publications-new/
+permalink: /publications/
 title: Publications-New
 author_profile: true
 ---
