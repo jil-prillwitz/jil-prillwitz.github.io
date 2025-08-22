@@ -10,7 +10,8 @@ König, L. M., **Gärtner, A.**, Slack, H. R., Dhakal, S., Adetula, A., Doughert
 
 ### Publications
 
-- Scheffel, C. & **Gärtner, A.** (*in press*). The role of cognitive effort in emotion regulation. *Affective Science*. | [*Preprint on PsyArXiv*](https://doi.org/10.31234/osf.io/eg9fm)
+Scheffel, C. & **Gärtner, A.** (*in press*). The role of cognitive effort in emotion regulation. *Affective Science*. | [*Preprint on PsyArXiv*](https://doi.org/10.31234/osf.io/eg9fm)
+
 - Rauthmann, J., Armbruster, D., Asselmann, E., Berkessel, J. B., Bleidorn, W., Buecker, S., **Gärtner, A.**, Leising, D., Luhmann, M., Phan, L. V., Rammstedt, B., Reitz, A. K., Renner, K.-H., Rohrer, J. M., Schmitz, F., Schoedel, R., Schubert, A.-L., Thielmann, I., Wrzus, C., & Zimmermann, J. (2025). Die Differentielle und Persönlichkeitspsychologie im Jahr 2025: Stand, Entwicklungen und Ausblick. *Psychologische Rundschau*. Advance online publication. | [*English translation on PsyArXiv*](https://osf.io/preprints/psyarxiv/2597u_v1)
 - Gollwitzer, M., Bühner, M., Antoni, C. H., Bermeitinger, C., **Gärtner, A.**, König, C., & Spinath, B. (2025). Verlässlichkeit, Verantwortung, Vertrauen – Grundpfeiler einer professionellen Promotionskultur in der Psychologie: Positionspapier der Kommission „Studium und Lehre“ der DGPs. *Psychologische Rundschau, 76*(3), 184–189. [doi.org/10.1026/0033-3042/a000723](https://econtent.hogrefe.com/doi/10.1026/0033-3042/a000723)
 - **Gärtner, A.**, Leising, D., Schönbrodt, F. D. (2024). Towards responsible research assessment: How to reward research quality. *PLoS Biology 22*(2): e3002553. [10.1371/journal.pbio.3002553](https://doi.org/10.1371/journal.pbio.3002553); see also here: [https://theplosblog.plos.org/2024/02/the-responsible-research-assessment-initiative/](https://theplosblog.plos.org/2024/02/the-responsible-research-assessment-initiative/)
